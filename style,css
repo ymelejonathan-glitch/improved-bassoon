@@ -1,0 +1,10 @@
+CSS
+body {
+    font-family: Arial;
+}
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
